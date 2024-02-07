@@ -1,0 +1,1 @@
+In this repository, you'll find three .cpp files created during my CodeSoft internship. They include a simple calculator ("BasicCalculator") , a fun Tic Tac Toe game ("TicTacToeGame"), and a number guessing game ("NumberGuessingGame"). Each file showcases my skills in C++ programming.
